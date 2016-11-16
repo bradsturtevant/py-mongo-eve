@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Temporary and binary files
+*~
+*.so
+*.cfg
+!setup.cfg
+*.orig
+*.log
+*.pot
+.cache/*
+.*.swp
+*/.ipynb_checkpoints/*
+
 # C extensions
 *.so
 
@@ -23,6 +35,13 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Project files
+.ropeproject
+.project
+.pydevproject
+.settings
+.idea
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

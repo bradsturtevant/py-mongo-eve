@@ -1,0 +1,14 @@
+cookiecutter
+coverage
+coveralls
+flake8
+pre-commit
+psutil
+pyscaffold
+pytest
+pytest-cov
+pytest-runner
+setuptools_scm
+six
+# Sphinx
+tox
